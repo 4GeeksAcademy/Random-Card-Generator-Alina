@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  width: 450px;
+  height: 700px;
+}
+
+body {
+  height: 100vh;
+}
+/* .spades::before {
+  content: "\2666";
+} */
+
+.simbol {
+  font-size: 100px;
+}
+
+#number {
+  font-size: 150px;
+}
