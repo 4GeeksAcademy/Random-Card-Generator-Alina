@@ -9,7 +9,7 @@ body {
 }
 /* .spades::before {
   content: "\2666";
-} */
+} */ /* solo funciona con ::before */
 
 .simbol {
   font-size: 100px;
